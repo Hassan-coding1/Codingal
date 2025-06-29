@@ -1,0 +1,33 @@
+input[type="text"] {
+    border: 4px solid rgb(97, 124, 90);
+}
+
+.class1 > p {
+    background-color: rgb(6, 253, 158);
+}
+
+h4 + h3 {
+    background-color: rgb(35, 2, 66);
+}
+
+.class2:hover {
+    background-color: brown;
+}
+
+li:nth-child(3) {
+    background-color: aqua;
+}
+
+div:not(.class1) {
+    background-color: rgb(115, 6, 158);
+    border: 2px solid black;
+}
+
+.class5::before {
+    content: "👀";
+}
+
+.class6::first-letter {
+    font-size: 32px;
+    color: rgb(131, 38, 181);
+}
