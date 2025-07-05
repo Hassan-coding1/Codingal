@@ -1,0 +1,11 @@
+.class1{
+    border: 3px dotted black;
+    padding: 30px;
+    background-color: rosybrown
+}
+
+.class2{
+    border:1px solid skyblue;
+    padding: 10px 20px 30px 40px;
+    background-color: blanchedalmond;
+}
